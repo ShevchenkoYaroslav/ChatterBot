@@ -10,7 +10,7 @@ import bot.*;
 
 class SimpleChatBot extends JFrame implements ActionListener {
 
-    final String TITLE_OF_PROGRAM = "Chatter: simple chatbot";
+    final String TITLE_OF_PROGRAM = "Chatter: chatbot by Valsorya94";
     final int START_LOCATION = 200;
     final int WINDOW_WIDTH = 350;
     final int WINDOW_HEIGHT = 450;
